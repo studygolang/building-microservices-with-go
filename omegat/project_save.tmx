@@ -4,6 +4,22 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First, we are going to look at how easy it is to create a simple web server with a single endpoint using the net/http package.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="chuuka" changedate="20190326T160921Z" creationid="chuuka" creationdate="20190326T160921Z">
+        <seg>首先，我们将看看使用net/http包创建一个只有一个端点的简单web服务器是多么容易。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introduction to Microservices</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="chuuka" changedate="20190326T160852Z" creationid="chuuka" creationdate="20190326T160852Z">
+        <seg>初识微服务</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
