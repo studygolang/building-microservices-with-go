@@ -1,0 +1,9 @@
+/target
+/omegat/*.bak
+/omegat/project_stats.txt
+/omegat/project_stats_match.txt
+/omegat/project_stats_match_per_file.txt
+/omegat/last_entry.properties
+/output
+
+#hafrans@163.com 
