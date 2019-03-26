@@ -20,6 +20,14 @@
         <seg>初识微服务</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, we will move on to examine the encoding/json package to see just how easy Go makes it for us to use JSON objects for our requests and our responses.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="chuuka" changedate="20190326T161613Z" creationid="chuuka" creationdate="20190326T161613Z">
+        <seg>然后，我们将继续研究编码/json包，看看使用json对象处理请求和响应有多容易。</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
